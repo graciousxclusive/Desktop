@@ -1,0 +1,14 @@
+{
+  "name": "co_efficient_worker",
+  "version": "1.0.0",
+  "description": "service worker for co-efficient",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Salem Daniel",
+  "license": "ISC",
+  "dependencies": {
+    "amqplib": "^0.8.0"
+  }
+}
